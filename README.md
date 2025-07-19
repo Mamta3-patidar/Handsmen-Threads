@@ -5,11 +5,16 @@ Overview
 This project provides a custom Salesforce solution for:
 
 Customers: Manage customer records, loyalty status, and contact details.
+
 Orders: Track orders, statuses, and enforce business rules on quantities and amounts.
+
 Products: Maintain product catalog, pricing, and stock levels.
+
 Inventory: Monitor inventory per product and warehouse, with automated restocking and alerts.
+
 Marketing Campaigns: Associate campaigns with customers and track campaign dates.
 Key Features
+
 Validation Rules: Ensure data quality for emails, amounts, and stock quantities.
 Automation:
 Flows:
