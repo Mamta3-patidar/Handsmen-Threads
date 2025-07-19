@@ -1,0 +1,1 @@
+IF(Stock_Quantity__c > 10, "Available", "Low Stock")
